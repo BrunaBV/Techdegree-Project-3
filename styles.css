@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #8a6e26;
+  background: #d1d1d1;
 }
 /* Link Styles */
 
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('http://placeimg.com/1000/600/any') no-repeat top center ;
+  background: url('images/nature.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
