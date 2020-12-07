@@ -90,9 +90,9 @@ header .profile-image:hover {
   color: #ffffff;
 }
 .card {
-  margin: 30px;
+  margin: 20px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  width: 500px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -169,7 +169,7 @@ a.social:hover {
 }
 
 /* Styles for larger screens */
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 1720px) {
   
   .flex {
       display: -ms-flexbox;      /* TWEENER - IE 10 */
@@ -178,6 +178,8 @@ a.social:hover {
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
+      
+      
   }
 
   header {
