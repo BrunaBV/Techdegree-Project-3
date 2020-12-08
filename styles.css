@@ -175,7 +175,7 @@ a.social:hover {
   .flex {
       display: -ms-flexbox;      /* TWEENER - IE 10 */
       display: flex; 
-      width: 0 auto;
+      width: auto;
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
