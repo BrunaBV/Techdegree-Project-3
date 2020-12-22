@@ -1,2 +1,2 @@
-# Techdegree Project 3
+# Techdegree Project - unit 1
  My third Techdegree project 
